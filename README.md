@@ -1,0 +1,2 @@
+# fuzzy
+Fuzzy-techniques project
